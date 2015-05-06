@@ -1,4 +1,4 @@
-#push-responsive
+#Push-responsive
 
 Push elements to the right, based on responsive settings.
 
